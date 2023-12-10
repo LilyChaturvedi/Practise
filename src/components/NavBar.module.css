@@ -1,0 +1,22 @@
+nav {
+  background-color: black;
+  color: "white";
+}
+.container {
+  max-width: 1440px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+}
+ul li {
+  cursor: pointer;
+}
